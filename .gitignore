@@ -2,3 +2,5 @@ data/
 Oxford_Battery_Degradation_Dataset_1.mat
 EV_Predictive_Maintenance_Dataset_15min.csv
 synthetic_ev_battery_5year_50cols_multimfg_3M.csv
+processed_features.pkl
+raw_loaded.pkl
